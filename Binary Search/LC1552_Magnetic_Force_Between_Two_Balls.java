@@ -1,5 +1,5 @@
-/*Leetcode: 1539. Kth Missing Positive Number
-Link: https://leetcode.com/problems/kth-missing-positive-number/ */
+/*Leetcode: 1552. Magnetic Force Between Two Balls
+Link: https://leetcode.com/problems/magnetic-force-between-two-balls/ */
 
 // First try approach 
 class Solution {
